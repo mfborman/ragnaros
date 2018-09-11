@@ -1,0 +1,19 @@
+{
+  "name": "ragnaros",
+  "version": "1.0.0",
+  "description": "react powered ui for ragnaros",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfborman/ragnaros.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfborman/ragnaros/issues"
+  },
+  "homepage": "https://github.com/mfborman/ragnaros#readme"
+}
